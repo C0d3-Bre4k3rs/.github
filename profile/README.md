@@ -11,7 +11,7 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/468px-Flag_of_Israel.svg.png" height="12" alt="IL" />   an israeli CTF team 
 - 💪 actively participating in CTFs since 2019  
-- 🏆 among the top of the israeli leaderboard in CTFtime in 2023 and 2024
+- 🏆 among the top of the israeli leaderboard in [CTFtime](https://ctftime.org/team/233444) in 2023 and 2024
 - 😴 amount of sleep hours deprived by CTFs: 252h
 - 💻 we <3 low level
 - 💬 ask us about anything; we will gladly help & eager to learn more!  
