@@ -13,7 +13,7 @@
 - 💪 actively participating in CTFs since 2019  
 - 🏆 among the top of the israeli leaderboard in CTFtime in 2023 and 2024
 - 😴 amount of sleep hours deprived by CTFs: 252h
-- 💻 We like pwn :)
+- 💻 We <3 low level :)
 - 💬 ask us about anything; we will gladly help & eager to learn more!  
 
 ### R43d about some ch411s we solved:
